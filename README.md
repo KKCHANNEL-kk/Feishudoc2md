@@ -1,11 +1,12 @@
 # <img src="public/icons/icon_48.png" width="45" align="left"> Feishudoc2md
 
-My Chrome Extension
+Edit additional functions for Feishu Docs by Javascript in Chrome Browser.
 
 ## Features
 
-- Feature 1
-- Feature 2
+- [ ] Transform Feishu Docs to .md File by a button which inserted into the webpage.
+
+
 
 ## Install
 
